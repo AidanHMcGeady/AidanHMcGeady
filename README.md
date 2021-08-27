@@ -1,6 +1,4 @@
-<h2 align="center"> Aidan H McGeady </h2>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medallyon&theme=onedark&no-bg=true&no-frame=true" alt="medallyon" /></a> </p>
+<h2 align="center"> Aidan H McGeady (He / Him) </h2>
 
 <h3 align="center">Always happy to connect</h3>
 <p align="center">
@@ -8,6 +6,8 @@
   <a href="https://discordapp.com/users/152543788034686978" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/Discord-Logo.png" alt="discord/Seeker421#4893" height="40" width="100" /></a>  
   <a href="https://linkedin.com/in/tilmanraendchen" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/tilmanraendchen" height="30" width="40" /></a>
 </p>
+
+
 <!--
 **AidanHMcGeady/AidanHMcGeady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

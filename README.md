@@ -1,6 +1,6 @@
 <h2 align="center"> Aidan H McGeady </h2>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medallyon&theme=onedark&no-bg=true&no-frame=true" alt="medallyon" /></a> </p>
 
 <h3 align="center">Always happy to connect</h3>
 <p align="center">

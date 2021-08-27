@@ -1,5 +1,6 @@
 <h2 align="center"> Aidan H McGeady </h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">Always happy to connect</h3>
 <p align="center">

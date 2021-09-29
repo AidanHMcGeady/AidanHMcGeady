@@ -37,17 +37,33 @@
   <a href="https://git.io/streak-stats"> <img alt="GitHub Streaks" src="http://github-readme-streak-stats.herokuapp.com?user=AidanHMcGeady&hide_border=true&background=18181800&ring=00B3B3&dates=00B3B3&currStreakNum=EFEFEF&sideNums=EFEFEF&sideLabels=FA8B00"> </a>
 </p>
 
+ <p align="center">
+  🔭 I’m currently working on: 
+    - Getting more certifications after graduating university
+    - Looking for full time work!
+  
+  🌱 I’m currently learning: 
+    - More about C++ 
+    - Programming principles!
+  
+  👯 I’m looking to collaborate on: 
+  - Video game ideas that sound interesting or unique!
+  
+  💬 Ask me about: 
+    - Coding
+    - TTRPGs
+    - Games
+    - Exercise Routines
+
+  📫 How to reach me: 
+    - aidanhmcgeady@gmail.com, always happy to chat!
+  </p>
+  
 <!--
 **AidanHMcGeady/AidanHMcGeady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->

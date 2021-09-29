@@ -29,6 +29,7 @@
   <!-- Add Atom -->
   <!-- Add Wix -->
   <!-- Add Wordpress -->
+  <!-- Add Code Blocks -->
 </p>
 
 <p align="center">
@@ -41,7 +42,7 @@
   🔭 I’m currently working on: 
     - Getting more certifications after graduating university
     - Looking for full time work!
-  
+  <br>
   🌱 I’m currently learning: 
     - More about C++ 
     - Programming principles!

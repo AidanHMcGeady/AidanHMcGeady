@@ -48,7 +48,7 @@
     - Programming principles!
 
   👯 I’m looking to collaborate on:  <br>
-  - Video game ideas that sound interesting or unique! 
+  - Video game ideas that sound interesting! 
 
   💬 Ask me about: <br>
     - Coding <br>

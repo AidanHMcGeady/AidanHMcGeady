@@ -39,31 +39,23 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on: 
+  🔭 I’m currently working on: <br>
     - Getting more certifications after graduating university
     - Looking for full time work!
-</p>
 
-<p align="center">
   🌱 I’m currently learning: 
     - More about C++ 
     - Programming principles!
-</p>
 
-<p align="center">
   👯 I’m looking to collaborate on: 
   - Video game ideas that sound interesting or unique!
-</p>
 
-<p align="center">
   💬 Ask me about: 
     - Coding
     - TTRPGs
     - Games
     - Exercise Routines
-</p>
 
-<p align="center">
   📫 How to reach me: 
     - aidanhmcgeady@gmail.com, always happy to chat!
 </p>

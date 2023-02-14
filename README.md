@@ -5,8 +5,6 @@
     <a href="https://twitter.com/aidan-mcgeady" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="twitter/aidan-mcgeady" height="30" width="40" /></a>  
     <a href="https://discordapp.com/users/152543788034686978" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/Discord-Logo.png" alt="discord/Seeker421#4893" height="30" width="60" /></a>  
     <a href="www.linkedin.com/in/aidan-mcgeady" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/aidan-mcgeady" height="30" width="40" /></a>
-    <a href="https://aidanhmcgeady.wixsite.com/home" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/76/Wix.com_website_logo.svg"   alt="wixsite/aidanhmcgeady" height="30" width="60" /></a>
-  </p>
 
 <h3 align="center">Languages</h3>
   <p align="center">

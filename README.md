@@ -3,7 +3,7 @@
 <h3 align="center">Always happy to connect</h3>
   <p align="center">
     <a href="https://twitter.com/aidan-mcgeady" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="twitter/aidan-mcgeady" height="30" width="40" /></a>  
-    <a href="https://discordapp.com/users/152543788034686978" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/Discord-Logo.png" alt="discord/Seeker421#4893" height="30" width="60" /></a>  
+    <a href="https://discordapp.com/users/152543788034686978" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/Discord-Logo.png" alt="discord/Seeker421#4893" height="30" width="90" /></a>  
     <a href="www.linkedin.com/in/aidan-mcgeady" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/aidan-mcgeady" height="30" width="40" /></a>
 </p>
 

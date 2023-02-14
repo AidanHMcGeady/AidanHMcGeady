@@ -5,6 +5,7 @@
     <a href="https://twitter.com/aidan-mcgeady" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="twitter/aidan-mcgeady" height="30" width="40" /></a>  
     <a href="https://discordapp.com/users/152543788034686978" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/Discord-Logo.png" alt="discord/Seeker421#4893" height="30" width="60" /></a>  
     <a href="www.linkedin.com/in/aidan-mcgeady" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/aidan-mcgeady" height="30" width="40" /></a>
+</p>
 
 <h3 align="center">Languages</h3>
   <p align="center">
@@ -18,7 +19,6 @@
    <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
     <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
   </p>
-</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidanHMcGeady&layout=compact&hide_border=true&bg_color=18181800&title_color=00b3b3&text_color=efefef&hide=c%2B%2B"> </a>

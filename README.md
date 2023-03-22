@@ -41,7 +41,7 @@
     - Games <br>
 
   📫 How to reach me: <br>
-    - Discord: Seeker421#4893, always happy to chat!
+    - Discord: DocDnB#0421, always happy to chat!
 </p>
   
 <!--

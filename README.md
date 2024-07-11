@@ -30,7 +30,7 @@
   🔭 I’m currently working on: <br>
     - Personal Projects <br>
     - Getting more certifications after graduating university <br>
-    - Working for TheVRHive
+<!--     - Working for TheVRHive -->
 
   👯 I’m looking to collaborate on:  <br>
   - Video game ideas that sound interesting! 

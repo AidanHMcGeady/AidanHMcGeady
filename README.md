@@ -25,30 +25,3 @@
   
   <a href="https://git.io/streak-stats"> <img alt="GitHub Streaks" src="http://github-readme-streak-stats.herokuapp.com?user=AidanHMcGeady&hide_border=true&background=18181800&ring=00B3B3&dates=00B3B3&currStreakNum=EFEFEF&sideNums=EFEFEF&sideLabels=FA8B00"> </a>
 </p>
-
-<p align="center">
-  🔭 I’m currently working on: <br>
-    - Personal Projects <br>
-    - Getting more certifications after graduating university <br>
-<!--     - Working for TheVRHive -->
-
-  👯 I’m looking to collaborate on:  <br>
-  - Video game ideas that sound interesting! 
-
-  💬 Ask me about: <br>
-    - Coding <br>
-    - TTRPGs <br>
-    - Games <br>
-
-  📫 How to reach me: <br>
-    - Discord: DocDnB#0421, always happy to chat!
-</p>
-  
-<!--
-**AidanHMcGeady/AidanHMcGeady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- ⚡ Fun fact: ...
--->
